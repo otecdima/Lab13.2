@@ -382,7 +382,7 @@ class LinkedBST(AbstractCollection):
         end = time.time()
         time_ = end - start
         print(f"Time needed for searching in rebalanced tree: {time_} seconds")
-
+        return ""
 
 tree = LinkedBST()
 print(tree.demo_bst("words.txt"))
