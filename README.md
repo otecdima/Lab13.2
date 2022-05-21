@@ -1,6 +1,6 @@
 # Lab13.2
 
-The goal of the task was to discover the effectiveness of the binary search tree for solving search tasks, using the methods of index for list and for tree: `add()` and `find()`
+The goal of the task was to discover the effectiveness of the binary search tree for solving search tasks, using the methods of index for list and for tree: `add()` and `find()`. The functions that have to be done and their results is down:
 - search in list
 - search in alphabetically sorted binary tree
 - search in non sorted binary tree
