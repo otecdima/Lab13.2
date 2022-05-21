@@ -385,17 +385,4 @@ class LinkedBST(AbstractCollection):
 
 
 tree = LinkedBST()
-listt = [4,5,3,7,2,6,9]
-for elem in listt:
-    tree.add(elem)
-print(tree)
-print(tree.find(9))
-print(tree.height())
-print(tree.is_balanced())
-print(list(tree.inorder()))
-print(tree.successor(10))
-print(tree.predecessor(6))
-print(tree.range_find(4, 7))
-# print(tree.rebalance())
-
 print(tree.demo_bst("words.txt"))
